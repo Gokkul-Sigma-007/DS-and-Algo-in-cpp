@@ -1,5 +1,5 @@
 # DS-and-Algo-in-c-
-This is a repository which will contain the simple and easily understandable c++ codes  with which i implemented ds and algorithms .
+This is a repository which will contain the simple and easily understandable c++ codes. Here using c++ i have  implemented various  data structures in a easy way .
 The data structures implemented in cpp are
 1-Stack
 2-Queue
